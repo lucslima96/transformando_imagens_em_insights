@@ -39,7 +39,7 @@ Bem-vindo ao repositório dedicado ao projeto "Reconhecimento Facial e Transform
         - Usar as imagens da propria Azure ou enviar alguma de sua preferência
 
 ## Minha parte pratica neste projeto:
-- Na pasta inputs deste projeto deixarei as imagens que utilizei pra teste
+- Na pasta [inputs](https://github.com/lucslima96/transformando_imagens_em_insights/tree/main/inputs) deste projeto deixarei as imagens que utilizei pra teste, retirei de um banco de dados gratuito na internet.
 - Na pasta outputs deixarei os resultados de reconhecimento de texto dessas imagens
 
 
