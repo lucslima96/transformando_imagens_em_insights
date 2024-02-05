@@ -40,7 +40,7 @@ Bem-vindo ao repositório dedicado ao projeto "Reconhecimento Facial e Transform
 
 ## Minha parte pratica neste projeto:
 - Na pasta [inputs](https://github.com/lucslima96/transformando_imagens_em_insights/tree/main/inputs) deste projeto deixarei as imagens que utilizei pra teste, retirei de um banco de dados gratuito na internet.
-- Na pasta outputs deixarei os resultados de reconhecimento de texto dessas imagens
+- Na pasta outputs deixarei os resultados de reconhecimento de texto e analise dessas imagens
 
 
 
